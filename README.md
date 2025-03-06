@@ -1,14 +1,7 @@
-# Deep Learning Notebooks Repository
+# Deep Learning Repository
 
-Welcome to my Deep Learning Notebooks repository! This repository contains various notebooks where I implement deep learning models from scratch. Additionally, I have written several Medium articles that provide insights and explanations related to the concepts covered in the notebooks.
-
-## Table of Contents
-
-- [Notebooks](#notebooks)
-- [Medium Articles](#medium-articles)
-
+Welcome to my Deep Learning repository! This repository contains various notebooks where I implement deep learning models from scratch. Additionally, I have written several Medium articles that provide insights and explanations related to the concepts covered in the notebooks.
 ## Notebooks
-
 This repository includes the following notebooks:
 
 - **Building a Simple MLP from Scratch Using PyTorch**
