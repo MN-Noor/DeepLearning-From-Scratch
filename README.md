@@ -13,7 +13,7 @@ This repository includes the following notebooks:
 
 - **Building a Simple MLP from Scratch Using PyTorch**
   - Description: A step-by-step guide to building a Multi-Layer Perceptron (MLP) using PyTorch.
-  - Link: [View Notebook](https://medium.com/@mn05052002/building-a-simple-mlp-from-scratch-using-pytorch-7d50ca66512b)
+  - Link: [View Notebook](https://github.com/MN-Noor/DeepLearning-From-Scratch/blob/main/MLP_from_scratch.ipynb)
 
 ## Medium Articles
 
