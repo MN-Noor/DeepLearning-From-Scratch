@@ -23,3 +23,9 @@ Here are some articles that complement the notebooks:
     
 - **Building a Simple MLP from Scratch Using PyTorch**
   - Link: [Read Article](https://medium.com/@mn05052002/building-a-simple-mlp-from-scratch-using-pytorch-7d50ca66512b)
+    
+- **Recurrent Neural Networks**
+- Link:[Read Article](https://medium.com/@mn05052002/comprehensive-guide-to-recurrent-neural-networks-part-1-b363fc454ffe)
+
+- **LSTM And Transformers**
+- Link:[Notes](https://drive.google.com/file/d/1fXpbI8NrK56N8wFaKwCG6XpJiTEqtNYI/view?usp=drive_link)
